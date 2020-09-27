@@ -1,0 +1,12 @@
+{
+  "name": "what-to-watch",
+  "displayName": "what-to-watch",
+  "expo": {
+    "name": "what-to-watch",
+    "slug": "what-to-watch",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
